@@ -3,7 +3,7 @@
 [https://www.hackingwithswift.com/100/swiftui](https://www.hackingwithswift.com/100/swiftui)
 
 * ❌`Days 1 to 15 - Introduction to Swift`
-* ❌`Day 16 - Project 1, part one`
+* ✅`Day 16 - Project 1, part one`
   * WeSplit: Introduction
   * Understanding the basic structure of a SwiftUI app
   * Creating a form
@@ -20,18 +20,18 @@
   * Wrap up
   * Review for Project 1: WeSplit
 * ✅`Day 19 - Challenge day`
-* ❌`Day 20 - Project 2, part 1`
+* ✅`Day 20 - Project 2, part 1`
   * Guess the Flag: Introduction
   * Using stacks to arrange views
   * Colors and frames
   * Gradients
   * Buttons and images
   * Showing alert messages
-* ❌`Day 21 - Project 2, part 2`
+* ✅`Day 21 - Project 2, part 2`
   * Stacking up buttons
   * Showing the player’s score with an alert
   * Styling our flags
-* ❌`Day 22 - Project 2, part 3`
+* ✅`Day 22 - Project 2, part 3`
   * Wrap up
   * Review for Project 2: Guess the Flag
 * ❌`Day 23 - Project 3, part 1`
