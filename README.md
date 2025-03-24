@@ -11,15 +11,15 @@
   * Modifying program state
   * Binding state to user interface controls
   * Creating views in a loop
-* ❌`Day 17 - Project 1, part two`
+* ✅`Day 17 - Project 1, part two`
   * Reading text from the user with TextField
   * Creating pickers in a form
   * Adding a segmented control for tip percentages
   * Calculating the total per person
-* ❌`Day 18 - Project 1, part three`
+* ✅`Day 18 - Project 1, part three`
   * Wrap up
   * Review for Project 1: WeSplit
-* ❌`Day 19 - Challenge day`
+* ✅`Day 19 - Challenge day`
 * ❌`Day 20 - Project 2, part 1`
   * Guess the Flag: Introduction
   * Using stacks to arrange views
